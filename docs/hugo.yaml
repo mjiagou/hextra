@@ -1,5 +1,5 @@
 # Configuration
-baseURL: "https://hextra-24f.pages.dev/"
+baseURL: "https://hextra-24f.pages.dev"
 title: "Hextra"
 
 enableRobotsTXT: true
@@ -17,7 +17,7 @@ outputs:
   page: [html]
   section: [html, rss]
 
-defaultContentLanguage: en
+defaultContentLanguage: zh-cn
 languages:
   en:
     languageName: English
