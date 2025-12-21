@@ -1,4 +1,4 @@
-baseURL: "<https://vpn.ygjc.cc/>"
+baseURL: "https://vpn.ygjc.cc/"
 languageCode: "zh-cn"
 title: "V56 Privacy Lab"
 theme: "hextra"
